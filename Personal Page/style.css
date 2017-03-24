@@ -1,0 +1,103 @@
+
+.nav_bar{
+  background-color:#7C0E78;
+  margin:0px -10px 100px -10px;
+  height:75px;
+  padding:15px 0px;
+}
+.right-headings{
+  font-weight:bold;
+  color:#fff;
+  padding-right:50px;
+  font-size:15px;
+  letter-spacing:1px;
+}
+.left-heading{
+  color:#fff;
+  font-weight:bold;
+  padding-left:100px;
+}
+body{
+  background-color:#878787;
+}
+.about{
+  background-color:#ABABAB;
+  padding-top:100px;
+  padding-left:100px;
+  margin-top:70px;
+  width:75%;
+  font-size:20px;
+  color:white;
+}
+.prem-image{
+  border-radius:50%;
+
+}
+.web-developer{
+  font-size:22px;
+}
+hr{
+  border:2px solid white;
+  margin-right:35px;
+  margin-left:20px;
+}
+.menu:hover
+{
+  background:#eee;
+
+}
+.hr-tag{
+  margin-left:-60px;
+  font-size:33px;
+}
+#portfolio{
+  background-color:#D2D1D1;
+  color:#6A6A6A;
+  margin-left:-99px;
+  width:112.55%;
+}
+#portfolio img{
+  width:90%;
+  padding-left:65px;
+
+}
+.footer{
+  background-color:#E5E2E2;
+  margin-left:-15px;
+  margin-right:-15px;
+}
+form{
+  padding-left:40px;
+
+}
+input[type=text]{
+  width:95%;
+
+}
+.social-row{
+ /* padding-left:400px;*/
+  word-spacing:40px;
+}
+.social-links{
+  background-color:#fff;
+  padding:13px;
+  border-radius:50%;
+
+}
+.footer-bottom{
+  margin-left:-40px;
+}
+.footer-bottom h2{
+  font-size:20px;
+  font-weight:bold;
+}
+.footer-bottom p{
+  font-size:15px;
+}
+input[type=text]{
+  border-left:none;
+  border-top:none;
+  border-right:none;
+  padding-left:10px;
+  background-color:#E5E2E2;
+}
